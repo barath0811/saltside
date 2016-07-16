@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: bird1
+  family: family1
+  continents: ['asia']
+  visible: true
+
+two:
+  name: bird2
+  family: family2
+  continents: ['america']
+  visible: false
